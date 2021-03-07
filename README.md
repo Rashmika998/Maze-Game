@@ -11,4 +11,4 @@ R - robot
 
 . - road
 
-Once the robot reach the destination, the correct path with was printed ‘+’ sign in the map and dedvelooped by python.
+Once the robot reach the destination, the correct path with was printed ‘+’ sign in the map and dedvelooped by using python.
